@@ -2,7 +2,7 @@ apiVersion: v2
 name: ovn-kubernetes-simple
 description: Simple Helm chart to deploy ovn-kubernetes cni
 type: application
-version: 0.1.0
+version: 0.1.1
 appVersion: "1.0.0"
 home: https://ovn-kubernetes.io/
 icon: https://www.ovn.org/images/ovn-logo.png
